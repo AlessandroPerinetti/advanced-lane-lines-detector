@@ -3,6 +3,8 @@
 The aim of this project it to detect the lane lines, estimate the road curvature radius and the vehicle position.
 The road that we have to face with present some non trivial complications such as curves, shadows, concrete changements, and occlusions.
 
+![](output_video/project_video.gif)
+
 For the achievement of the goal, the following steps were performed:
 
 [//]: # (Image References)
